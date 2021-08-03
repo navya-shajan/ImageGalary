@@ -1,0 +1,39 @@
+.root{
+    --primary:#900C3F;
+    --secondary:#581845;
+    --secondary2:#C70039;
+    --secondary3:#FFC300;
+    --error:#FF5733;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f8bf01;
+}
+.error{
+    color: #FF5733;
+}
+.title-wrapper{
+    margin:2px;
+    padding: auto;
+}
+.title-wrapper h1{
+    color: var(--primary);
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    font-weight: normal;
+    text-align: left;
+    color: #900C3F;
+}
+h2 p{
+    text-align: center;
+}
+h2{
+   margin-top: 60px;
+   font-size: 1.6rem;
+    
+   color:#581845;
+}
+p{
+    
+    color: #900C3F;
+}
